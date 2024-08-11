@@ -1,0 +1,9 @@
+
+# Requirements
+
+* mediapipe 0.8.11
+* OpenCV 4.5.3.56 
+* numpy  1.22.0
+* Tensorflow 2.5.0  
+* scikit-learn 1.4.1.post1 
+* matplotlib 3.5.3 
